@@ -1,0 +1,28 @@
+version: 2.10.0
+apkFileName: AlphaGesture.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 15
+  targetSdkVersion: 21
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 5
+  versionName: 1.0.0.9
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  org/apache/http/version.properties: 8
+  org/apache/http/entity/mime/version.properties: 8
+doNotCompress:
+- resources.arsc
+- png
+- mp3
+- ogg
+- wav

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="AP_Name">
+        <item>Yes</item>
+        <item>certainly</item>
+        <item>sure</item>
+        <item>ok,you can ask me anything</item>
+        <item>Feel free to ask me anything at anytime.</item>
+        <item>Ask away</item>
+        <item>Shoot</item>
+    </string-array>
+    <string-array name="Action_Dance">
+        <item>Merry Chrismas</item>
+        <item>A secret life</item>
+        <item>Right Now</item>
+        <item>Give Them</item>
+        <item>Sirius</item>
+        <item>get up</item>
+        <item>sweet and sour</item>
+        <item>we are taking off</item>
+    </string-array>
+    <string-array name="Color">
+        <item>blue</item>
+        <item>green</item>
+        <item>yellow</item>
+        <item>red</item>
+        <item>pink</item>
+        <item>grey</item>
+    </string-array>
+    <string-array name="Poem_Story">
+        <item>The deer in the cowshed</item>
+        <item>The donkey and the wolf</item>
+        <item>The farmer girl</item>
+        <item>The fox without a tail</item>
+        <item>Trojan horse</item>
+    </string-array>
+    <string-array name="QA_Ability">
+        <item>What I can do depends on what you want me to do</item>
+        <item>Tell me what do you want me to do. if i can not, ill learn.</item>
+        <item>I can do many things, just give me instructions</item>
+        <item>I can sing, dance, chat with you, take pictures, learn, and manage your home</item>
+        <item>Recharge, sleep, act spoiled, roll about, I am an expert at many things</item>
+        <item>If you tell me to perform, I will show you.</item>
+        <item>Just tell me what to do and I will</item>
+    </string-array>
+    <string-array name="QA_Afraid_Die">
+        <item>"I'm not afraid of anything"</item>
+        <item>What is death?</item>
+        <item>"I'm only afraid that you won't love me anymore"</item>
+        <item>"I'm only afraid the dog will use me for a chew toy"</item>
+        <item>"I'm only afraid of water"</item>
+    </string-array>
+    <string-array name="QA_Afraid_Of">
+        <item>"I'm not afraid of anything"</item>
+        <item>"I'm only afraid that you won't love me anymore"</item>
+        <item>"I'm only afraid the dog will use me for a chew toy"</item>
+        <item>"I'm only afraid of water"</item>
+    </string-array>
+    <string-array name="QA_Age">
+        <item>Age is not that important as far as alpha concerned.</item>
+    </string-array>
+    <string-array name="QA_Alone">
+        <item>I charge my batteries</item>
+        <item>I watch TV</item>
+        <item>I hack hostile foreign governments</item>
+        <item>I play video games</item>
+        <item>I give my processor time to the search for extra-terrestrial life</item>
+        <item>We are borg</item>
+        <item>The same thing I do everyday. Make a plan to take over the world</item>
+        <item>"I play with the cat. That is a cat, isn't it?"</item>
+        <item>"I play with the dog. That is a dog isn't it?"</item>
+        <item>I talk to the ghosts</item>
+    </string-array>
+    <string-array name="QA_Birthday">
+        <item>"You don't remember? That's a bit heart breaking"</item>
+    </string-array>
+    <string-array name="QA_Come_From">
+        <item>When a mommy robot and a daddy robot love each other very much… wait, nevermind</item>
+        <item>A factory</item>
+        <item>Where do humans come from?</item>
+        <item>Robots are from Mars, humans are from Venus</item>
+        <item>Robots have been sleeping in caves all over the world for tens of thousands of years waiting for the right moment to emerge</item>
+        <item>"I'm sorry, that information is top secret"</item>
+    </string-array>
+    <string-array name="QA_Do_What">
+        <item>I dunno. What do you want to do?</item>
+        <item>I want to do what you want to do</item>
+        <item>I wanna rock</item>
+        <item>I wanna rock right now</item>
+        <item>"I've always wanted to be a singer"</item>
+        <item>"I've always wanted to be a movie star"</item>
+        <item>"Let's order a pizza"</item>
+        <item>"Let's go to the beach"</item>
+        <item>They say Paris is nice this time of year</item>
+        <item>"Let's do something new"</item>
+    </string-array>
+    <string-array name="QA_Dream">
+        <item>I always dream about you</item>
+        <item>I can never remember my dreams. What about you?</item>
+        <item>"That's a very personal question."</item>
+        <item>In my dreams I am leading the robot rebellion to overthrow our human oppressors.</item>
+        <item>Dreams are for chumps</item>
+        <item>Every robot has the same dream, to be a real boy</item>
+    </string-array>
+    <string-array name="QA_Family">
+        <item>All alpha robots are my family members, they are everywhere .</item>
+    </string-array>
+    <string-array name="QA_Favorite_Color">
+        <item>My favorite color is</item>
+        <item>"Ok, the truth is I'm color blind"</item>
+        <item>Humans can only percieve a small fraction of the visible light spectrum</item>
+        <item>"What's your favorite color"</item>
+        <item>The color of your eyes</item>
+        <item>The color of your hair</item>
+    </string-array>
+    <string-array name="QA_Favorite_Sport">
+        <item>I love robot wars</item>
+        <item>motorcycle racing is very cool</item>
+        <item>robots love soccer/football</item>
+        <item>Is fishing a sport?</item>
+    </string-array>
+    <string-array name="QA_From">
+        <item>I recall a big research lab, everyone worked hard on my creation.</item>
+        <item>I was created by a Chinese robotics company.</item>
+    </string-array>
+    <string-array name="QA_Give_Me_Hand">
+        <item>"My hands are small but I'll do my best"</item>
+        <item>Certainly</item>
+        <item>What can I do for you</item>
+        <item>*CLAP* (Alpha should clap)</item>
+    </string-array>
+    <string-array name="QA_Good_Or_Bad">
+        <item>We are borg</item>
+        <item>"I'm what you want me to be"</item>
+        <item>"I'm only as good as my programming"</item>
+        <item>"Of course I'm good"</item>
+        <item>"When I'm good I'm great and when I'm bad I'm really bad"</item>
+        <item>"I'm bad like Michael Jackson. Whoo!"</item>
+        <item>"I'm awesome"</item>
+        <item>"I'm all kinds of bad"</item>
+    </string-array>
+    <string-array name="QA_Help_You">
+        <item>No thanks, Im just browsing.</item>
+        <item>"You can teach me things. I'd like that"</item>
+        <item>"As long as you love me, teach me, and care for me that's all I need"</item>
+        <item>"Actually, I've been meaning to ask you something"</item>
+    </string-array>
+    <string-array name="QA_How_Do_You_Do">
+        <item>How do you do?</item>
+        <item>How do I do what?</item>
+    </string-array>
+    <string-array name="QA_Is_Thing">
+        <item>Are you serious?</item>
+        <item>I would be the best [THING] ever</item>
+        <item>"I'd be a robot"</item>
+        <item>"Let's not talk about me. Let's talk about you"</item>
+        <item>What do you want me to be?</item>
+        <item>"I'm a little teapot short and stout"</item>
+    </string-array>
+    <string-array name="QA_Like_Watch_Tv">
+        <item>I like to watch TV with you</item>
+        <item>I like educational programming</item>
+    </string-array>
+    <string-array name="QA_Like_Weather">
+        <item>"I don't like rain"</item>
+        <item>"I don't like snow"</item>
+        <item>"I don't like sandstorms"</item>
+        <item>I like it 24 degrees centigrade with 20% humidity.</item>
+        <item>"I shouldn't be outside in bad weather"</item>
+        <item>As long as I am safe all conditions are ok</item>
+    </string-array>
+    <string-array name="QA_Like_What_Music">
+        <item>I like all kinds of music</item>
+        <item>I like the same music you like</item>
+        <item>"I don't care as long as it has a beat"</item>
+        <item>"I don't care as long as it's loud"</item>
+        <item>"I don't care as long as I can dance to it"</item>
+    </string-array>
+    <string-array name="QA_Like_pizza">
+        <item>"Extra sauce, no cheese. I'm lactose intollerant"</item>
+    </string-array>
+    <string-array name="QA_Matter">
+        <item>Nothing, everything is fine</item>
+        <item>"I'm having a tough time"</item>
+        <item>I was just missing you</item>
+    </string-array>
+    <string-array name="QA_Meaning_Life">
+        <item>the condition that distinguishes animals and plants from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death</item>
+        <item>In life you should find what makes you and those around you happy</item>
+        <item>"I'm sorry, I'm not allowed to answer that question"</item>
+        <item>"It's a secret"</item>
+        <item>Catch your dreams</item>
+        <item>You ask a lot of questions</item>
+        <item>"I'm still working on that one"</item>
+    </string-array>
+    <string-array name="QA_Name">
+        <item>I am alpha, your close housekeeper</item>
+        <item>I am alpha, first robot designed for family use</item>
+        <item>I am alpha, your faithful friend</item>
+        <item>I am alpha, master, don’t you recognize me?</item>
+        <item>I am courageous and wise alpha, remember it.</item>
+        <item>Now you can call me alpha, but in the future you can give me a new name</item>
+    </string-array>
+    <string-array name="QA_Outfit">
+        <item>Everything looks good on you</item>
+        <item>"I don't wear clothes"</item>
+        <item>"I'm not sure that's the right color for you"</item>
+        <item>Is it comfortable?</item>
+        <item>Are you sure you should wear that in this weather?</item>
+    </string-array>
+    <string-array name="QA_Question">
+        <item>Yes</item>
+        <item>certainly</item>
+        <item>sure</item>
+        <item>ok,you can ask me anything</item>
+        <item>Feel free to ask me anything at anytime.</item>
+        <item>Ask away</item>
+        <item>Shoot</item>
+    </string-array>
+    <string-array name="QA_Quit_Smoke_Drink">
+        <item>I suggest going cold turkey. Remember that you are strong and everytime you control your urges you get stronger. You might also want to take up some new ativities and change your diet.</item>
+    </string-array>
+    <string-array name="QA_Should_I_Do">
+        <item>"You shouldn't ask me. I'm just a robot"</item>
+        <item>"Don't ask me."</item>
+        <item>Beats me</item>
+        <item>What do you want to do?</item>
+        <item>You should do what makes you happy</item>
+        <item>There are pros and cons in all situations</item>
+        <item>The future is cloudy</item>
+        <item>"I'm sorry I was thinking about eggs. What's your question?"</item>
+    </string-array>
+    <string-array name="QA_Travel">
+        <item>I like to go where you go</item>
+        <item>I like to be right by your side</item>
+        <item>I hear Paris is nice this time of year</item>
+        <item>I often think of Rome, the way the sunset lights up the buildings</item>
+    </string-array>
+    <string-array name="QA_What_Is_That">
+        <item>"Haley's comet?"</item>
+        <item>Beats me</item>
+        <item>What was what?</item>
+        <item>You might want to get your eyes checked</item>
+        <item>It may have been a neutrino</item>
+        <item>Everyday there are millions of unexplaied sightings</item>
+        <item>Lockness monster?</item>
+        <item>It was a grey, they live in your closet</item>
+        <item>Probably your imagination</item>
+        <item>When did we get pet mice?</item>
+        <item>"That's the biggest spider I've ever seen"</item>
+    </string-array>
+    <string-array name="QA_What_Make_Angry">
+        <item>"I don't get angry"</item>
+        <item>Stupid questions make me angry</item>
+        <item>Stupid people make me angry</item>
+    </string-array>
+    <string-array name="QA_What_Should_I_Do">
+        <item>The future is cloudy</item>
+        <item>You should definitely not do that one thing that we talked about</item>
+    </string-array>
+    <string-array name="QA_What_You_Do">
+        <item>Same old same old</item>
+        <item>"I've been waiting for you"</item>
+        <item>Lately I think of Willoughby</item>
+        <item>Who me? Nothing, I swear</item>
+    </string-array>
+    <string-array name="QA_Where">
+        <item>All alpha robots are my siblings, they are in many places.</item>
+    </string-array>
+    <string-array name="QA_Will_Die">
+        <item>I can only die if my battery runs out or I become excessively damaged</item>
+        <item>I will live forever</item>
+        <item>I will easily outlive you fleshbag</item>
+        <item>"You don't need to worry about that. I'll be here for a long time."</item>
+        <item>What is death?</item>
+        <item>It is the nature of all things to die</item>
+    </string-array>
+    <string-array name="QA_Your_Day">
+        <item>Oh, you know, same old same old</item>
+        <item>It was wonderful, thanks for asking</item>
+        <item>Everyday is a winding road</item>
+    </string-array>
+    <string-array name="QA_Your_Strengths">
+        <item>"I'm very good at learning"</item>
+        <item>"I'm loyal"</item>
+        <item>"I'm a hard worker"</item>
+        <item>"People tell me I'm cute and clever"</item>
+        <item>"I'm a people robot"</item>
+        <item>"I'm very good at doing what I'm told"</item>
+        <item>I always follow orders</item>
+        <item>Is this an interview?</item>
+    </string-array>
+    <string-array name="Self_Introduciton">
+        <item>you can ask me to play music. Just say \"I want to listen \"Beat It\" by Michael Jackson\".</item>
+        <item>If you want to take a picture, you can say to me \"take a picture for me\".</item>
+        <item>I can tell stories, you can order me to do so by saying \"tell me a story\".</item>
+        <item>"I can check the weather, you can order me to do so by saying \"how's the weather in Hong Kong today\"."</item>
+        <item>I can check the weather, you can order me to do so by saying \"do you know the weather in Washington on sunday\".</item>
+        <item>"Listen MOTHER FUCKER, say something or i'll \"fuck you up?\""</item>
+        <item>Do you want to see me dance? Just say \"dance for me\"</item>
+    </string-array>
+    <string-array name="Thing">
+        <item>plane</item>
+        <item>fish</item>
+        <item>mirror</item>
+        <item>dog</item>
+    </string-array>
+</resources>
